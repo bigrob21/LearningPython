@@ -1,0 +1,6 @@
+./Servers
+./RemoteSystemsTempFiles
+**/.project
+**/.classpath
+**./pydevproject
+.metadata
